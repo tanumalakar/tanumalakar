@@ -54,7 +54,7 @@
 - [Gymnasium Website](https://tanumalakar.github.io/Gymnasium/)
 - [Awesome Portfolio](https://tanumalakar.github.io/awesome-portfolio/)
 - [Ecommerce Website](https://tanumalakar.github.io/ecommerce-website/)
-- [My Resume](ttps://tanumalakar.github.io/resume/)
+- [My Resume](https://tanumalakar.github.io/resume/)
 <!-- YOUTUBE:END -->
 
 ➡️ [more Projects...](https://github.com/tanumalakar)
