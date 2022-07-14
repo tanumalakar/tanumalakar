@@ -1,9 +1,9 @@
 ### Hi there, I'm Tanu Malakar [aspiringtanu][website] 👋
 
-[![Website](https://img.shields.io/website?label=aspiring_tanu&style=for-the-badge&url=https%3A%2F%2Ffolio24.blogspot.com)](https://folio24.blogspot.com/)
+[![Website](https://img.shields.io/website?label=aspiring_tanu&style=for-the-badge&url=https%3A%2F%2Ffolio24.blogspot.com)](https://tanumalakar.blogspot.com/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/malakartanu?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=malakartanu)
 
-## I'm Frontend Developer, and Teacher!!
+## I'm Front-End Web Developer, and Teacher!!
 
 - 🔭 I just launched my 7 project  [My Recent Project][course]!
 - 🌱 I’m currently learning everything 🤣
